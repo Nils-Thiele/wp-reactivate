@@ -23,6 +23,9 @@
  */
 
 
+echo "Hallo Welt"; 
+
+
 namespace Pangolin\WPR;
 
 // If this file is called directly, abort.
